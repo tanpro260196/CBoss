@@ -1,8 +1,0 @@
-c:\users\jacob\documents\visual studio 2015\Projects\CBoss\CBoss\bin\Debug\CBoss.dll
-c:\users\jacob\documents\visual studio 2015\Projects\CBoss\CBoss\bin\Debug\CBoss.pdb
-c:\users\jacob\documents\visual studio 2015\Projects\CBoss\CBoss\bin\Debug\Newtonsoft.Json.dll
-c:\users\jacob\documents\visual studio 2015\Projects\CBoss\CBoss\bin\Debug\TerrariaServer.exe
-c:\users\jacob\documents\visual studio 2015\Projects\CBoss\CBoss\bin\Debug\TShockAPI.dll
-c:\users\jacob\documents\visual studio 2015\Projects\CBoss\CBoss\obj\Debug\CBoss.csprojResolveAssemblyReference.cache
-c:\users\jacob\documents\visual studio 2015\Projects\CBoss\CBoss\obj\Debug\CBoss.dll
-c:\users\jacob\documents\visual studio 2015\Projects\CBoss\CBoss\obj\Debug\CBoss.pdb
